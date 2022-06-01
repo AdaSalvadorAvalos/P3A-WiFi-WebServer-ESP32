@@ -1,9 +1,12 @@
-MATERIALES
-· ESP32
+# Práctica 3: ejercicio A
 
-Objetivo: crear una web usando el periferico de wi-fi del microprocesador ESP32.
+## MATERIALES
+- ESP32
 
-EXPLICACIÓN CÓDIGO:
+## Presentación:
+Crear una web usando el periférico de wi-fi del microprocesador ESP32.
+
+## EXPLICACIÓN CÓDIGO(con comentarios que explican el funcionamiento línea a línea):
 
 ```
 #include <WiFi.h>
@@ -65,4 +68,4 @@ void handle_root() {
  server.send(200, "text/html", HTML);
 }
 ```
-//SALIDA EXPLICADA EN EL VIDEO
+Salida explicada con más claridad en el vídeo.
