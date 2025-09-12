@@ -99,7 +99,6 @@ void handle_root() {
 - **Video Demonstration in Spanish:** [Watch video](assets/practica3A.mp4)
 - **ESP32 Documentation:** [Espressif ESP32](https://docs.espressif.com/projects/esp-idf/en/stable/esp32/index.html) 
 - **ESP32 Wi-Fi Library Documentation:** [ESP32 WiFi](https://github.com/espressif/arduino-esp32/tree/master/libraries/WiFi)  
-- **Arduino WebServer Library Reference:** [WebServer](https://www.arduino.cc/reference/en/libraries/webserver/)  
 
 # Práctica 3-A: Servidor Web con ESP32 (Versión en Español)
 
@@ -198,6 +197,5 @@ void handle_root() {
 
 ### Recursos
 - **Video demostrativo en español:** [Ver video](assets/practica3A.mp4)
-- - **Documentación del ESP32:** [Espressif ESP32](https://docs.espressif.com/projects/esp-idf/en/stable/esp32/index.html) 
+- **Documentación del ESP32:** [Espressif ESP32](https://docs.espressif.com/projects/esp-idf/en/stable/esp32/index.html) 
 - **Documentación de la librería Wi-Fi del ESP32:** [ESP32 WiFi](https://github.com/espressif/arduino-esp32/tree/master/libraries/WiFi)  
-- **Referencia de la librería WebServer de Arduino:** [WebServer](https://www.arduino.cc/reference/en/libraries/webserver/)  
