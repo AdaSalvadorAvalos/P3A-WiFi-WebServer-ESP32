@@ -95,6 +95,11 @@ void handle_root() {
    - Open a browser and navigate to the ESP32 IP shown in the Serial Monitor
    - You should see the web page served by the ESP32
 
+### Resources
+- **Video Demonstration in Spanish:** [Watch video](assets/practica3A.mp4)
+- **ESP32 Documentation:** [Espressif ESP32](https://docs.espressif.com/projects/esp-idf/en/stable/esp32/index.html) 
+- **ESP32 Wi-Fi Library Documentation:** [ESP32 WiFi](https://github.com/espressif/arduino-esp32/tree/master/libraries/WiFi)  
+- **Arduino WebServer Library Reference:** [WebServer](https://www.arduino.cc/reference/en/libraries/webserver/)  
 
 # Práctica 3-A: Servidor Web con ESP32 (Versión en Español)
 
@@ -192,4 +197,7 @@ void handle_root() {
    - Deberías ver la página web servida por el ESP32
 
 ### Recursos
-- Video explicativo en español sobre la creación del servidor web con ESP32: [Ver video](assets/practica3A.mp4)
+- **Video demostrativo en español:** [Ver video](assets/practica3A.mp4)
+- - **Documentación del ESP32:** [Espressif ESP32](https://docs.espressif.com/projects/esp-idf/en/stable/esp32/index.html) 
+- **Documentación de la librería Wi-Fi del ESP32:** [ESP32 WiFi](https://github.com/espressif/arduino-esp32/tree/master/libraries/WiFi)  
+- **Referencia de la librería WebServer de Arduino:** [WebServer](https://www.arduino.cc/reference/en/libraries/webserver/)  
