@@ -4,7 +4,7 @@
 - ESP32
 
 ## Introduction
-In this practice, for my Digital Processors course, I learned how to create a simple web page using the Wi-Fi peripheral of the ESP32. The ESP32 acts as a web server and serves an HTML page accessible from a browser.
+In this practice, for the Digital Processors course, we learn how to create a simple web page using the Wi-Fi peripheral of the ESP32. The ESP32 acts as a web server and serves an HTML page accessible from a browser.
 
 ## Code Explanation (with comments explaining line by line):
 ```cpp
@@ -106,7 +106,7 @@ void handle_root() {
 - ESP32
 
 ## Introducción
-En esta práctica, para mi curso de Procesadores Digitales, aprendí a crear una página web simple utilizando el periférico Wi-Fi del ESP32. El ESP32 actúa como servidor web y entrega una página HTML accesible desde un navegador.
+En esta práctica, para el curso de Procesadores Digitales, aprendemos a crear una página web simple utilizando el periférico Wi-Fi del ESP32. El ESP32 actúa como servidor web y entrega una página HTML accesible desde un navegador.
 
 ## Explicación del código (con comentarios línea por línea):
 
@@ -199,3 +199,4 @@ void handle_root() {
 - **Video demostrativo en español:** [Ver video](assets/practica3A.mp4)
 - **Documentación del ESP32:** [Espressif ESP32](https://docs.espressif.com/projects/esp-idf/en/stable/esp32/index.html) 
 - **Documentación de la librería Wi-Fi del ESP32:** [ESP32 WiFi](https://github.com/espressif/arduino-esp32/tree/master/libraries/WiFi)  
+
